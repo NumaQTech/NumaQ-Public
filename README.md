@@ -1,7 +1,12 @@
 # 🚀 NumaQ Public Edition
 
-**Free, open-source echo chamber protection**  
+**Open-source echo chamber protection with patent-pending governance-first architecture.**  
 *Patent-pending governance-first architecture for healthy digital discourse*
+*Free for research and testing - Enterprise features available for commercial use.*
+
+NumaQ prevents harmful content from entering your system by checking inputs 
+*before* processing, not after. Our innovative approach breaks filter bubbles 
+and maintains healthy digital discourse through ethical AI governance.
 
 ## 🎯 Core Innovation
 
